@@ -2,7 +2,7 @@
 ### (1) AI learning with tensorflow
 Azure Notebooks project link : https://notebooks.azure.com/JackieExcell/projects/phase2ai
 
-### (2) Web Scraping of Amazon and Trademe
+### (2) Web Scraping of Amazon and Trademe websites
 
 Azure Notebooks project link: https://notebooks.azure.com/JackieExcell/projects/web-scraper
 
